@@ -1,0 +1,24 @@
+# 빌드 결과물
+/build/
+/.gradle/
+
+# 의존성 폴더
+/node_modules/
+
+# Next.js 빌드 결과물
+/.next/
+/out/
+
+# IDE 설정 파일
+.idea/
+
+# 환경 변수 파일
+.env*
+!/.env.example
+
+# 민감한 설정 파일
+application.yml
+
+# 운영체제 및 기타
+.DS_Store
+*.log

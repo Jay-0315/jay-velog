@@ -1,0 +1,17 @@
+# 빌드 결과물
+/build/
+/.gradle/
+
+# IDE 설정 파일
+.idea/
+*.iml
+*.iws
+
+# 로그 파일
+*.log
+
+# 운영체제 파일
+.DS_Store
+
+# 민감한 설정 파일
+application.yml
