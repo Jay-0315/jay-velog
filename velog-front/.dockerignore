@@ -1,0 +1,29 @@
+# Node.js 관련
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-store
+
+# Next.js 빌드 산출물
+.next
+out
+dist
+
+# 환경 설정
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Git & IDE
+.git
+.gitignore
+.DS_Store
+.idea
+.vscode
+
+# 테스트 관련
+coverage
+__tests__/
