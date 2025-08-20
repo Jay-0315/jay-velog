@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e117a552-facb-489c-bc5c-50e02e7cddb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/velog-back/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/velog-back/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/velog-front/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/velog-front/.idea/velog-front.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/infra/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/velog-back/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/velog-back/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/velog-back/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/velog-back/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/velog-front/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/velog-front/Dockerfile" afterDir="false" />
+    <list default="true" id="e117a552-facb-489c-bc5c-50e02e7cddb0" name="Changes" comment="Dockerfile 수정, .dockerignore 파일 추가">
+      <change beforePath="$PROJECT_DIR$/velog-back/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/velog-back/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +86,17 @@
       <workItem from="1755570923088" duration="1000" />
       <workItem from="1755570926294" duration="1000" />
       <workItem from="1755575174152" duration="2086000" />
-      <workItem from="1755649557363" duration="4623000" />
+      <workItem from="1755649557363" duration="4823000" />
     </task>
+    <task id="LOCAL-00001" summary="Dockerfile 수정, .dockerignore 파일 추가">
+      <option name="closed" value="true" />
+      <created>1755657408778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755657408778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +106,9 @@
         <option value="$PROJECT_DIR$/velog-front/next.config.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dockerfile 수정, .dockerignore 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dockerfile 수정, .dockerignore 파일 추가" />
   </component>
 </project>
